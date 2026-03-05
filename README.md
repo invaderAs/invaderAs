@@ -1,4 +1,4 @@
-# ashmit@cyberlab:~$ whoami
+# ashmit@sharma:~$ whoami
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Blue+Team+Enthusiast;SOC+Analyst+in+Progress;Investigating+Logs+%7C+Detecting+Threats&center=true&width=650&height=45)
 
