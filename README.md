@@ -1,11 +1,12 @@
 # ashmit@cyberlab:~$ whoami
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Blue+Team+Enthusiast;SOC+Analyst+in+Progress;Log+Analysis+%7C+Threat+Detection&center=true&width=600&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Blue+Team+Enthusiast;SOC+Analyst+in+Progress;Investigating+Logs+%7C+Detecting+Threats&center=true&width=650&height=45)
 
 Ashmit Sharma  
-Cybersecurity Student | Blue Team | SOC Enthusiast
+Cybersecurity Student | Blue Team | SOC Operations
 
-Investigating alerts, analyzing logs, and understanding attacker behavior.
+Investigating alerts, analyzing logs, and understanding attacker behavior.  
+Currently building practical experience through **SOC labs, blue-team investigations, and personal cybersecurity projects.**
 
 ---
 
@@ -14,18 +15,21 @@ Investigating alerts, analyzing logs, and understanding attacker behavior.
 SOC Monitoring  
 Log Analysis  
 Incident Investigation  
-Network Traffic (PCAP) Analysis  
+Network Traffic Analysis (PCAP)  
 MITRE ATT&CK Mapping  
 Linux Fundamentals  
 Threat Intelligence Basics  
 
-Tools
+---
+
+## Tools & Technologies
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
 ![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis-black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue)
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
-![Linux](https://img.shields.io/badge/Linux-System%20Ops-black)
+![Linux](https://img.shields.io/badge/Linux-System-black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 
 ---
 
@@ -40,24 +44,22 @@ Networking Basics — Cisco Networking Academy
 
 ## Hands-On Practice
 
-SOC Alert Investigations  
+**SOC Alert Investigations**  
 → LetsDefend alerts analyzed and documented  
 
-Blue Team Labs  
-→ CyberDefenders investigations (PCAP / malware / IR labs)
+**Blue Team Labs**  
+→ CyberDefenders investigations (PCAP / malware / incident response labs)
 
-SOC Home Lab  
-→ Wazuh based detection and investigation environment
+**SOC Home Lab**  
+→ Wazuh-based detection and investigation environment
 
 ---
 
-## GitHub Stats
+## Current Focus
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=invaderAs&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=invaderAs&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invaderAs&layout=compact&theme=dark)
+- Building SOC home lab environments  
+- Practicing incident response investigations  
+- Improving detection and log analysis skills  
 
 ---
 
@@ -69,6 +71,3 @@ Technology & Systems
 Listening to Music  
 Continuous Learning  
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=invaderAs&color=blue)
